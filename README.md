@@ -2,7 +2,7 @@
 ### A Reflection on Human-Centered Prompt Design
 
 
-Accepted at the XXV Brazilian Symposium on Human Factors in Computing Systems 2026 (Quixadá -Ceará, Brazil)
+Accepted at the XXV Brazilian Symposium on Human Factors in Computing Systems 2026 (Quixadá - Ceará, Brazil)
 
 
 ## Paper
