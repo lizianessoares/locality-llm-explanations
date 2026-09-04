@@ -12,14 +12,15 @@ Accepted at the XXV Brazilian Symposium on Human Factors in Computing Systems 20
 
 ## Citation
 ```
-@inproceedings{Soares2026,
-  author    = {Soares, L. S. and
-               Lopes, B. G. and
-               Almeida, J. M. and
-               Prates, R. O. and
-               Gonçalves, M. A.},
-  title     = {Are All Instances Equally Explainable? A Study on the Impact of Locality on the Explainability of Automatic Text Classification Tasks},
-  booktitle = {Proceedings of the 4th World Conference on Explainable Artificial Intelligence},
+@inproceedings{Soares2026LLM,
+  author    = {Soares, Liziane Santos and
+               Santos, Lucas da Silva and
+               Barreto, Maria Carvalhido Izabel and
+               Almeida, Jussara Marques de and
+               Gonçalves, Marcos André and
+               Prates, Raquel Oliveira},
+  title     = {Locality-Based Explanations with LLMs: A Reflection on Human-Centered Prompt Design},
+  booktitle = {Proceedings of the XXV Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais},
   year      = {2026},
   note      = {Accepted for publication}
 }
