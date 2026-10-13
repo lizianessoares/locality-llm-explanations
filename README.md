@@ -5,9 +5,15 @@
 Accepted at the XXV Brazilian Symposium on Human Factors in Computing Systems 2026 (Quixadá - Ceará, Brazil)
 
 
-## Paper
-**Note:** The full paper will be available after the conference proceedings are published.
 
+
+## Paper
+
+📄 [Camera-ready manuscript](soaresl_ihc2026_camera_ready.pdf)
+
+This is the author-prepared camera-ready version accepted at the **25th Brazilian Symposium on Human Factors in Computing Systems (IHC 2026)**. It is provided prior to the official publication of the conference proceedings and is not the final Version of Record.
+
+The official version and DOI will be made available upon publication of the proceedings.
 
 
 ## Citation
